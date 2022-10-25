@@ -7,7 +7,7 @@ body {
   font-family: Roboto, sans-serif;
 }
 
-img {
+img { 
   width: 600px;
 }
 
@@ -28,10 +28,12 @@ input {
 
 /* SOLUTION */
 
+
 body {
   display: flex;
   flex-direction: column;
 }
+
 
 button {
   padding: 8px 16px;
@@ -56,6 +58,7 @@ a {
   justify-content: space-between;
   padding: 16px;
 }
+
 
 .footer {
   background: #eee;

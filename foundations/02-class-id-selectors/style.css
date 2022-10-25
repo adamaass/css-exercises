@@ -1,0 +1,20 @@
+
+.normal-size{
+  background-color: red;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#big-font{
+  font-size:42px;
+  color:blue;
+}
+
+.big-size{
+  font-size: 30px;
+  background-color: red;
+}
+#other-id {
+  font-size: 25px;
+  font-weight:bold;
+  background-color: aquamarine;
+}
